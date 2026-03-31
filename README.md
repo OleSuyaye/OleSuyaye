@@ -12,7 +12,7 @@
 
 ⚙️ On a journey to becoming a **Data Engineer**
 
-I enjoy working with data to uncover insights that can drive **real-world impact**.
+I use data to uncover insights that drive **real-world decisions**.
 
 ---
 ## 🌱 Current Focus
@@ -48,7 +48,7 @@ I enjoy working with data to uncover insights that can drive **real-world impact
 ✔️ Built dashboards to identify **sales trends & top-performing products**
 ✔️ Generated insights on **customer behavior and business performance**
 
-🔗 **View Project:** https://github.com/OleSuyaye/Week-1-Data-Science-Analytics-MS-Excel-Project
+🔗 **Jumia Sales Data Analysis:** https://github.com/OleSuyaye/Week-1-Data-Science-Analytics-MS-Excel-Project
 
 ---
 ## 🌍 Interests
