@@ -1,5 +1,3 @@
-## Hi there, I'm Kev👋
-
 # 👋 Hi, I'm Kev
 
 🌍 **Data Enthusiast | Future Data Engineer | Environmental & Conservation Advocate**
