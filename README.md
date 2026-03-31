@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kev
 
-🌍 **Data Enthusiast | Future Data Engineer | Environmental & Conservation Advocate**
+🌍 **Data & Tech Enthusiast | Future Data Engineer | Environmental & Conservation Advocate**
 ---
 ## 🚀 About Me
 
